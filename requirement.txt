@@ -3,3 +3,4 @@ numpy
 scikitlearn
 matplotlib
 seaborn
+torch
